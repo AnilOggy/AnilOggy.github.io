@@ -171,6 +171,9 @@ Meadia Player Container start Here
     padding-left: 1px;
     padding-top: 2px;
   }
+  #popUp-video {
+  height: 490px;
+  }
 }
 @media (max-width: 400px) {
   #video-btn-container button {
